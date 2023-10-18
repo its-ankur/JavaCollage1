@@ -1,5 +1,6 @@
 package ForReference;// A class to represent a node of a doubly linked list
 
+
 // A class to represent a doubly linked list
 public class DoublyLinkedList {
     Node head; // The reference to the first node of the list
